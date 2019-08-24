@@ -2,7 +2,9 @@
 
 
 Test link: 
-[Test link to second page](SecondPage.md)
+- [Test link to second page](SecondPage.md)
+- [Kolejna strona](KolejnaStrona.md)
+
 
 
 You can use the [editor on GitHub](https://github.com/TJMedi/GithubPages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
