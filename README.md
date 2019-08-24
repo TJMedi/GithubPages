@@ -5,6 +5,7 @@ Test link:
 - [Test link to second page](SecondPage.md)
 - [Kolejna strona](KolejnaStrona.md)
 
+- [Posts list](./_posts/PostsList.md)
 
 List of posts: -- not working :(
 <ul>
