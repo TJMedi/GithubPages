@@ -6,7 +6,7 @@ Test link:
 - [Kolejna strona](KolejnaStrona.md)
 
 
-List of posts:
+List of posts: -- not working :(
 <ul>
   {% for post in site.posts %}
     <li>
