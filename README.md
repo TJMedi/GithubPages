@@ -6,6 +6,14 @@ Test link:
 - [Kolejna strona](KolejnaStrona.md)
 
 
+List of posts:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
 You can use the [editor on GitHub](https://github.com/TJMedi/GithubPages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
