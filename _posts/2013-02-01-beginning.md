@@ -4,5 +4,5 @@ title: "Beginning ..."
 tags: [undecided, empty]
 categories: [test, trial]
 ---
-# Beginning
+# Beginning title
 First post and what about it...
